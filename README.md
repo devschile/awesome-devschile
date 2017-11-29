@@ -3,11 +3,16 @@
 **A curated list of awesome resources posted in devschile.cl**
 
 - [#backend](#backend)
+- [#frontend](#frontend)
 - [#lifehacks](#lifehacks)
 
 ## #backend
 
-* [crontab.guru](https://crontab.guru/) - An easy to use editor for crontab schedules.
+- [crontab.guru](https://crontab.guru/): An easy to use editor for crontab schedules.
+
+## #frontend
+
+- [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors
 
 ## #lifehacks
 
