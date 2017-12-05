@@ -9,6 +9,7 @@
 ## #backend
 
 - [crontab.guru](https://crontab.guru/): An easy to use editor for crontab schedules.
+- [hadolint](https://github.com/hadolint/hadolint): A smarter Dockerfile linter that helps you build best practice Docker images.
 
 ## #frontend
 
