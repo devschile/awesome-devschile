@@ -13,6 +13,7 @@
 ## #frontend
 
 - [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors
+- [Parcel](https://parceljs.org/): Blazing fast, zero configuration web application bundler
 
 ## #lifehacks
 
