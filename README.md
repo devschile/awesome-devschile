@@ -10,6 +10,7 @@
 
 - [crontab.guru](https://crontab.guru/): An easy to use editor for crontab schedules.
 - [hadolint](https://github.com/hadolint/hadolint): A smarter Dockerfile linter that helps you build best practice Docker images.
+- [Storj](https://storj.io/): Decentralized Cloud Storage
 
 ## #frontend
 
