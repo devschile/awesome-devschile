@@ -1,0 +1,23 @@
+---
+language: node_js
+node_js:
+  - node
+notifications:
+  email: false
+addons:
+  ssh_known_hosts:
+    - github.com
+    - 104.131.105.95
+before_deploy:
+  - openssl aes-256-cbc -K $encrypted_9e50b4071479_key -iv $encrypted_9e50b4071479_iv -in id_awesome_devschile.enc -out id_awesome_devschile -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 id_awesome_devschile.pem
+  - ssh-add id_awesome_devschile.pem
+script:
+  - echo 'No tests'
+deploy:
+  provider: script
+  script: git remote add dokku dokku@104.131.105.95:awesome.devschile.cl&& git push dokku master
+  skip_cleanup: true
+  on:
+    branch: master
