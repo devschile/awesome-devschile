@@ -5,6 +5,7 @@
 - [#backend](#backend)
 - [#frontend](#frontend)
 - [#lifehacks](#lifehacks)
+- [#general](#general)
 
 ## #backend
 
@@ -20,3 +21,6 @@
 ## #lifehacks
 
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses
+
+## #general
+- [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books
