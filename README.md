@@ -1,4 +1,6 @@
-# Awesome devsChile [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome devsChile 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of awesome resources posted in devschile.cl**
 
@@ -15,6 +17,7 @@
 
 ## #frontend
 
+- [RealFaviconGenerator](https://realfavicongenerator.net/): Favicon Generator. For real.
 - [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors
 - [Parcel](https://parceljs.org/): Blazing fast, zero configuration web application bundler
 
