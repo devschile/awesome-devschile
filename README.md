@@ -28,3 +28,4 @@
 
 ## #general
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books
+- [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers
