@@ -16,6 +16,8 @@
 
 - [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors
 - [Parcel](https://parceljs.org/): Blazing fast, zero configuration web application bundler
+- [Vanilla JavaScript Quick Reference / Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86)
+- [Exploring JS](http://exploringjs.com/): JavaScript books for programmers
 - [MJML](https://mjml.io/):  The Responsive Email Framework
 
 ## #lifehacks
