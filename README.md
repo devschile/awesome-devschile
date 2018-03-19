@@ -15,7 +15,7 @@
 - [crontab.guru](https://crontab.guru/): An easy to use editor for crontab schedules.
 - [hadolint](https://github.com/hadolint/hadolint): A smarter Dockerfile linter that helps you build best practice Docker images.
 - [Storj](https://storj.io/): Decentralized Cloud Storage
-- [dokku] (http://dokku.viewdocs.io/dokku/): Minimal but very functional PASS implementation with heroku build pack and native docker support.
+- [dokku](http://dokku.viewdocs.io/dokku/): Minimal but very functional PASS implementation with heroku build pack and native docker support.
 
 ## #frontend
 
