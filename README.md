@@ -30,6 +30,8 @@
 ## #lifehacks
 
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses
+- [Brain.fm](https://www1.brain.fm/): Music for the Brain
+- [Defonic](http://defonic.com/): A fabulous ambient noise generator
 
 ## #general
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books
