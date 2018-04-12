@@ -36,6 +36,7 @@
 ## #general
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers
+- [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies
 
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept
