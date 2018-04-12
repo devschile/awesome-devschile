@@ -26,6 +26,8 @@
 - [Exploring JS](http://exploringjs.com/): JavaScript books for programmers
 - [MJML](https://mjml.io/):  The Responsive Email Framework
 - [CSS Keylogging](https://github.com/maxchehab/CSS-Keylogging): CSS-Keylogging - Chrome extension and Express server that exploits keylogging abilities of CSS.
+- [CSS Grid Garden ](https://cssgridgarden.com/): CSS Grid Garden - A game for learning CSS grid layout.
+- [CSS Flexbox Froggy](https://flexboxfroggy.com/): CSS CSS Flexbox Froggy - A game for learning CSS flexbox.
 
 ## #lifehacks
 
