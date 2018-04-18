@@ -28,12 +28,14 @@
 - [CSS Keylogging](https://github.com/maxchehab/CSS-Keylogging): CSS-Keylogging - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [CSS Grid Garden ](https://cssgridgarden.com/): CSS Grid Garden - A game for learning CSS grid layout.
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/): CSS CSS Flexbox Froggy - A game for learning CSS flexbox.
+- [BEE Free](https://beefree.io/): BEE is the easiest, quickest way to design elegant, mobile responsive emails
 
 ## #lifehacks
 
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses
 - [Brain.fm](https://www1.brain.fm/): Music for the Brain
 - [Defonic](http://defonic.com/): A fabulous ambient noise generator
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps): List of awesome open source applications for macOS.
 
 ## #general
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books
