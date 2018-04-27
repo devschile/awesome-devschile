@@ -20,15 +20,16 @@
 ## #frontend
 
 - [RealFaviconGenerator](https://realfavicongenerator.net/): Favicon Generator. For real.
-- [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors
-- [Parcel](https://parceljs.org/): Blazing fast, zero configuration web application bundler
+- [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors.
+- [Parcel](https://parceljs.org/): Blazing fast, zero configuration web application bundler.
 - [Vanilla JavaScript Quick Reference / Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86)
-- [Exploring JS](http://exploringjs.com/): JavaScript books for programmers
-- [MJML](https://mjml.io/):  The Responsive Email Framework
+- [Exploring JS](http://exploringjs.com/): JavaScript books for programmers.
+- [MJML](https://mjml.io/):  The Responsive Email Framework.
 - [CSS Keylogging](https://github.com/maxchehab/CSS-Keylogging): CSS-Keylogging - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [CSS Grid Garden ](https://cssgridgarden.com/): CSS Grid Garden - A game for learning CSS grid layout.
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/): CSS CSS Flexbox Froggy - A game for learning CSS flexbox.
-- [BEE Free](https://beefree.io/): BEE is the easiest, quickest way to design elegant, mobile responsive emails
+- [BEE Free](https://beefree.io/): BEE is the easiest, quickest way to design elegant, mobile responsive emails.
+- [cssdb](https://jonathantneal.github.io/cssdb/): cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
 
 ## #lifehacks
 
