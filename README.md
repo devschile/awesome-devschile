@@ -33,16 +33,17 @@
 
 ## #lifehacks
 
-- [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses
-- [Brain.fm](https://www1.brain.fm/): Music for the Brain
-- [Defonic](http://defonic.com/): A fabulous ambient noise generator
+- [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
+- [Brain.fm](https://www1.brain.fm/): Music for the Brain.
+- [Defonic](http://defonic.com/): A fabulous ambient noise generator.
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps): List of awesome open source applications for macOS.
 
 ## #general
-- [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books
-- [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers
-- [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies
+- [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books.
+- [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies.
+- [Technical Book Hunter](https://github.com/TechBookHunter?tab=repositories): A curated collection of free eBooks tech-related.
 
 ## #ux
-- [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept
+- [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
 - [tabler](https://tabler.github.io/): Premium and Open Source dashboard template with responsive and high quality UI.
