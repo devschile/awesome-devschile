@@ -37,6 +37,7 @@
 - [Brain.fm](https://www1.brain.fm/): Music for the Brain.
 - [Defonic](http://defonic.com/): A fabulous ambient noise generator.
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps): List of awesome open source applications for macOS.
+- [AliTools](https://alitools.io/): AliTools supervisa los cambios en los precios de AliExpress, Gearbest, Banggood y JD, y muestra su propio nivel de confianza hacia los vendedores, así como encuentra y muestra comentarios reales sobre los productos.
 
 ## #general
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books.
