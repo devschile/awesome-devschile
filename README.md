@@ -40,6 +40,7 @@
 - [AliTools](https://alitools.io/): AliTools supervisa los cambios en los precios de AliExpress, Gearbest, Banggood y JD, y muestra su propio nivel de confianza hacia los vendedores, así como encuentra y muestra comentarios reales sobre los productos.
 
 ## #general
+- [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books.
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies.
