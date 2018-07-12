@@ -30,6 +30,7 @@
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/): CSS CSS Flexbox Froggy - A game for learning CSS flexbox.
 - [BEE Free](https://beefree.io/): BEE is the easiest, quickest way to design elegant, mobile responsive emails.
 - [cssdb](https://jonathantneal.github.io/cssdb/): cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
+- [BEE free](https://beefree.io/templates/): Free emails template, build your own.
 
 ## #lifehacks
 
