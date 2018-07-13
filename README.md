@@ -39,6 +39,7 @@
 - [Defonic](http://defonic.com/): A fabulous ambient noise generator.
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps): List of awesome open source applications for macOS.
 - [AliTools](https://alitools.io/): AliTools supervisa los cambios en los precios de AliExpress, Gearbest, Banggood y JD, y muestra su propio nivel de confianza hacia los vendedores, así como encuentra y muestra comentarios reales sobre los productos.
+- [MACgyver Servicio Técnico](https://www.facebook.com/MacgyverST/): Reparación de equipos Apple en general, Macbook Pro, Air, iPhone, iPad, etc. Asesoría, mantención y upgrade (recomendado por @alv.alvarez).
 
 ## #general
 - [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
