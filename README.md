@@ -8,6 +8,7 @@
 - [#frontend](#frontend)
 - [#lifehacks](#lifehacks)
 - [#general](#general)
+- [#mascotas](#mascotas)
 - [#ux](#ux)
 
 ## #backend
@@ -47,6 +48,9 @@
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies.
 - [Technical Book Hunter](https://github.com/TechBookHunter?tab=repositories): A curated collection of free eBooks tech-related.
+
+## #mascotas
+- [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
 
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
