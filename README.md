@@ -50,6 +50,8 @@
 - [MACgyver Servicio Técnico](https://www.facebook.com/MacgyverST/): Reparación de equipos Apple en general, Macbook Pro, Air, iPhone, iPad, etc. Asesoría, mantención y upgrade (recomendado por @alv.alvarez).
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
 - [Listen to a Movie](http://listentoamovie.com/media/index.php): for the cubicle workers of the word.
+- [Silla SENTIS](http://www.llusca.com/es/mobiliario/383-silla-sentis/): recomendada por @alvaromeza
+- [Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq 
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
