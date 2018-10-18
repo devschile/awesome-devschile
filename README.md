@@ -52,6 +52,13 @@
 - [Listen to a Movie](http://listentoamovie.com/media/index.php): for the cubicle workers of the word.
 - [Silla SENTIS](http://www.llusca.com/es/mobiliario/383-silla-sentis/): recomendada por @alvaromeza
 - [Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq 
+- Audiobooks recomendados por @narzerus:
+  - *Soft Skills: The Software Developer’s Life Manual:* Habilidades blandas de software devs en todos los ambios. Tiene algunos chapters medios weones q se va en una vola super esotérica pero lo demás bastante bueno. Es básico pero integral, es probable que pillen algo que les sirva en algun capítulo
+  - *Never Split the Difference: Negotiating as if Your Life Depended on It:* Librazo, sobre negociacion te todo tipo, lo escribió un crack de la CIA que negociaba la vida de rehenes con terroristas y weones locos
+  - *Algorithms to Live By: The Computer Science of Human Decisions:* Aplica algorítmos de ciencias de la computación a la vida real, entretenidísimo el libro
+  - *Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success:* Como ser excelente si morir en el intento
+  - *The Power of Habit: Why We Do What We Do in Life and Business:* Genial libro sobre como se forman y modifican nuestros hábitos y como nos gobiernan (y que hacer al respecto)
+  - *Sapiens: A Brief History of Humankind:* La historia del homo sapiens desde que existe hasta el presente. Genial el libro
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
