@@ -33,6 +33,8 @@
 - [RealFaviconGenerator](https://realfavicongenerator.net/): Favicon Generator. For real.
 - [Vanilla JavaScript Quick Reference / Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86)
 - [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors.
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts): 
+This repository was created with the intention of helping developers master their concepts in JavaScript.
 
 ## #general
 - [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
