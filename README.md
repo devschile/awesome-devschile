@@ -61,6 +61,7 @@ This repository was created with the intention of helping developers master thei
   - *Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success:* Como ser excelente si morir en el intento
   - *The Power of Habit: Why We Do What We Do in Life and Business:* Genial libro sobre como se forman y modifican nuestros hábitos y como nos gobiernan (y que hacer al respecto)
   - *Sapiens: A Brief History of Humankind:* La historia del homo sapiens desde que existe hasta el presente. Genial el libro
+- [Paper Toys](https://papertoys.com/): maquetas imprimibles en PDF
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
