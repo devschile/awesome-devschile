@@ -9,6 +9,7 @@
 - [#general](#general)
 - [#lifehacks](#lifehacks)
 - [#mascotas](#mascotas)
+- [#musiqueria](#musiqueria)
 - [#ux](#ux)
 
 ## #backend
@@ -62,9 +63,21 @@ This repository was created with the intention of helping developers master thei
   - *The Power of Habit: Why We Do What We Do in Life and Business:* Genial libro sobre como se forman y modifican nuestros hábitos y como nos gobiernan (y que hacer al respecto)
   - *Sapiens: A Brief History of Humankind:* La historia del homo sapiens desde que existe hasta el presente. Genial el libro
 - [Paper Toys](https://papertoys.com/): maquetas imprimibles en PDF
+- [AD Block](https://devschile.slack.com/archives/C0SN7UH97/p1541423040491000): Bloquea estas urls en el router y no tendrás mas ADS (por @madkoding):
+```
+pubads.g.doubleclick.net
+static.doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+```
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
+
+## #musiqueria
+- [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
 
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
