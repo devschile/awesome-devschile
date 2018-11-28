@@ -9,6 +9,7 @@
 - [#general](#general)
 - [#lifehacks](#lifehacks)
 - [#mascotas](#mascotas)
+- [#mobile](#mobile)
 - [#musiqueria](#musiqueria)
 - [#ux](#ux)
 
@@ -75,6 +76,9 @@ ad.doubleclick.net
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
+
+## #mobile
+- [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation
 
 ## #musiqueria
 - [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
