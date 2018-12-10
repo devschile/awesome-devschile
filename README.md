@@ -73,6 +73,7 @@ pagead2.googlesyndication.com
 securepubads.g.doubleclick.net
 ad.doubleclick.net
 ```
+- [Carcular.cl](https://www.calcular.cl/): Calcular es un sitio que te enseña como hacer el cálculo de todo, puedes calcular porcentajes, tu sueldo líquido, calcular porcentaje e incluso tu IMC.
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
