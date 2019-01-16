@@ -9,6 +9,8 @@
 - [#general](#general)
 - [#lifehacks](#lifehacks)
 - [#mascotas](#mascotas)
+- [#mobile](#mobile)
+- [#musiqueria](#musiqueria)
 - [#ux](#ux)
 
 ## #backend
@@ -33,6 +35,8 @@
 - [RealFaviconGenerator](https://realfavicongenerator.net/): Favicon Generator. For real.
 - [Vanilla JavaScript Quick Reference / Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86)
 - [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors.
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts): 
+This repository was created with the intention of helping developers master their concepts in JavaScript.
 
 ## #general
 - [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
@@ -52,14 +56,40 @@
 - [Listen to a Movie](http://listentoamovie.com/media/index.php): for the cubicle workers of the word.
 - [Silla SENTIS](http://www.llusca.com/es/mobiliario/383-silla-sentis/): recomendada por @alvaromeza
 - [Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq 
+- Audiobooks recomendados por @narzerus:
+  - *Soft Skills: The Software Developer’s Life Manual:* Habilidades blandas de software devs en todos los ambios. Tiene algunos chapters medios weones q se va en una vola super esotérica pero lo demás bastante bueno. Es básico pero integral, es probable que pillen algo que les sirva en algun capítulo
+  - *Never Split the Difference: Negotiating as if Your Life Depended on It:* Librazo, sobre negociacion te todo tipo, lo escribió un crack de la CIA que negociaba la vida de rehenes con terroristas y weones locos
+  - *Algorithms to Live By: The Computer Science of Human Decisions:* Aplica algorítmos de ciencias de la computación a la vida real, entretenidísimo el libro
+  - *Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success:* Como ser excelente si morir en el intento
+  - *The Power of Habit: Why We Do What We Do in Life and Business:* Genial libro sobre como se forman y modifican nuestros hábitos y como nos gobiernan (y que hacer al respecto)
+  - *Sapiens: A Brief History of Humankind:* La historia del homo sapiens desde que existe hasta el presente. Genial el libro
+- [Paper Toys](https://papertoys.com/): maquetas imprimibles en PDF
+- [AD Block](https://devschile.slack.com/archives/C0SN7UH97/p1541423040491000): Bloquea estas urls en el router y no tendrás mas ADS (por @madkoding):
+```
+pubads.g.doubleclick.net
+static.doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+```
+- [Carcular.cl](https://www.calcular.cl/): Calcular es un sitio que te enseña como hacer el cálculo de todo, puedes calcular porcentajes, tu sueldo líquido, calcular porcentaje e incluso tu IMC.
+- [Flow.cl](https://www.flow.cl): Puedes cobrar via e-mail a una persona y que ésta pague mediante tarjeta de crédito o débito.
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
 
+## #mobile
+- [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation
+
+## #musiqueria
+- [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
+- [Songs To Test Headphones With](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZtZ8vUCzche?si=jAwVYwFxS1m1Njvo4vbUJw)
+
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
 - [tabler](https://tabler.github.io/): Premium and Open Source dashboard template with responsive and high quality UI.
-
+- [Design DB](https://www.designdb.co/): Directory of the best free design resources, templates, UI kits, and Mockups on the Internet. All resources are hand-curated and vetted for quality to save you time and money.
 --
 
 [repo](https://github.com/devschile/awesome-devschile/)
