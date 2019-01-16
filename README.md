@@ -4,6 +4,12 @@
 
 **A curated list of awesome resources posted in devschile.cl**
 
+--
+
+[repo](https://github.com/devschile/awesome-devschile/)
+
+--
+
 - [#backend](#backend)
 - [#frontend](#frontend)
 - [#general](#general)
@@ -20,6 +26,7 @@
 - [hadolint](https://github.com/hadolint/hadolint): A smarter Dockerfile linter that helps you build best practice Docker images.
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices): Node.js Best Practices
 - [Storj](https://storj.io/): Decentralized Cloud Storage
+- [Bash Commands and Tips](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je): 101 Bash Commands and Tips for Beginners to Experts
 
 ## #frontend
 
@@ -90,6 +97,4 @@ ad.doubleclick.net
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
 - [tabler](https://tabler.github.io/): Premium and Open Source dashboard template with responsive and high quality UI.
 - [Design DB](https://www.designdb.co/): Directory of the best free design resources, templates, UI kits, and Mockups on the Internet. All resources are hand-curated and vetted for quality to save you time and money.
---
 
-[repo](https://github.com/devschile/awesome-devschile/)
