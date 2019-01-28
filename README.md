@@ -27,6 +27,7 @@
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices): Node.js Best Practices
 - [Storj](https://storj.io/): Decentralized Cloud Storage
 - [Bash Commands and Tips](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je): 101 Bash Commands and Tips for Beginners to Experts
+- [Vim-Startify](https://github.com/mhinz/vim-startify): The fancy start screen for Vim
 
 ## #frontend
 
