@@ -50,6 +50,7 @@ This repository was created with the intention of helping developers master thei
 - [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books.
 - [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies.
+- [RealWorld: The mother of all demo apps](https://github.com/gothinkster/realworld): Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Technical Book Hunter](https://github.com/TechBookHunter?tab=repositories): A curated collection of free eBooks tech-related.
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
