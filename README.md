@@ -53,6 +53,7 @@ This repository was created with the intention of helping developers master thei
 - [RealWorld: The mother of all demo apps](https://github.com/gothinkster/realworld): Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Technical Book Hunter](https://github.com/TechBookHunter?tab=repositories): A curated collection of free eBooks tech-related.
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [goalkicker](https://goalkicker.com/): Programming Notes for Professionals books
 
 ## #lifehacks
 
