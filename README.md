@@ -87,6 +87,10 @@ This repository was created with the intention of helping developers master thei
 - [Milk Coffee lifehack](https://www.instagram.com/p/BtgQNHWlsWK/): How to froth milk at home using only a French Press!
 - [Kyrios](https://www.kyrios.cl/xiaomi/): esta tienda tiene muchas carcasas grosas para sus :xiaomi:
 - [Fracción](https://fraccion.cl/): Fracción, permite que las personas puedan adquirir mediante el fraccionamiento, sus remedios a precios más económicos y en la dosis justa. Queremos mejorar el acceso de los medicamentos a las familias chilenas a través de diferentes redes de farmacias independientes.
+- [Portainer](https://portainer.io/): Administrador de imagenes locales y remotas de Docker. Para instalar:
+```
+docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
+```
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
