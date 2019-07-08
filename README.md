@@ -32,9 +32,9 @@
 
 ## #frontend
 
-- [BEE Free](https://beefree.io/): BEE is the easiest, quickest way to design elegant, mobile responsive emails.
-- [BEE free](https://beefree.io/templates/): Free emails template, build your own.
-- [CSS Flexbox Froggy](https://flexboxfroggy.com/): CSS CSS Flexbox Froggy - A game for learning CSS flexbox.
+- [Best Email Editor Free](https://beefree.io/): BEE is the easiest, quickest way to design elegant, mobile responsive emails.
+- [Best Email Editor Free Templates](https://beefree.io/templates/): Free email templates, you can also build your own.
+- [CSS Flexbox Froggy](https://flexboxfroggy.com/): CSS Flexbox Froggy - A game for learning CSS flexbox.
 - [CSS Grid Garden ](https://cssgridgarden.com/): CSS Grid Garden - A game for learning CSS grid layout.
 - [CSS Keylogging](https://github.com/maxchehab/CSS-Keylogging): CSS-Keylogging - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [cssdb](https://jonathantneal.github.io/cssdb/): cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
