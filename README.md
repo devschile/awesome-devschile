@@ -100,7 +100,7 @@
 - [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
 - [Songs To Test Headphones With](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZtZ8vUCzche?si=jAwVYwFxS1m1Njvo4vbUJw)
 
-## #pegas
+## #pegas
 - [HH as Freelancer](https://gist.github.com/mediafinger/f49c3363ee8af736f8a8623102de16fa): How to calculate your hourly rate as a freelancer?
 
 ## #ux
