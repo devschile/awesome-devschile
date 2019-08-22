@@ -55,6 +55,7 @@
 - [RealWorld: The mother of all demo apps](https://github.com/gothinkster/realworld): Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Technical Book Hunter](https://github.com/TechBookHunter?tab=repositories): A curated collection of free eBooks tech-related.
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- Fix permisos de carpeta en Mac OS X: `sudo chown -R $(whoami) /Library/WebServer/Documents/`
 
 ## #lifehacks
 
