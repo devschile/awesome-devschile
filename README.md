@@ -85,7 +85,7 @@
   securepubads.g.doubleclick.net
   ad.doubleclick.net
 ```
-- [Carcular.cl](https://www.calcular.cl/): Calcular es un sitio que te enseña como hacer el cálculo de todo, puedes calcular porcentajes, tu sueldo líquido, calcular porcentaje e incluso tu IMC.
+- [Calcular.cl](https://www.calcular.cl/): Calcular es un sitio que te enseña como hacer el cálculo de todo, puedes calcular porcentajes, tu sueldo líquido, calcular porcentaje e incluso tu IMC.
 - [Flow.cl](https://www.flow.cl): Puedes cobrar via e-mail a una persona y que ésta pague mediante tarjeta de crédito o débito.
 - [Milk Coffee lifehack](https://www.instagram.com/p/BtgQNHWlsWK/): How to froth milk at home using only a French Press!
 - [Kyrios](https://www.kyrios.cl/xiaomi/): esta tienda tiene muchas carcasas grosas para sus :xiaomi:
