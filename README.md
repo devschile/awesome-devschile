@@ -90,6 +90,7 @@
 - [Milk Coffee lifehack](https://www.instagram.com/p/BtgQNHWlsWK/): How to froth milk at home using only a French Press!
 - [Kyrios](https://www.kyrios.cl/xiaomi/): esta tienda tiene muchas carcasas grosas para sus :xiaomi:
 - [Fracción](https://fraccion.cl/): Fracción, permite que las personas puedan adquirir mediante el fraccionamiento, sus remedios a precios más económicos y en la dosis justa. Queremos mejorar el acceso de los medicamentos a las familias chilenas a través de diferentes redes de farmacias independientes.
+- [La Cacerita](https://www.caserita.cl/): Primer Mayorista Online, despacho a domicilio
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
