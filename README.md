@@ -13,6 +13,7 @@
 - [#backend](#backend)
 - [#frontend](#frontend)
 - [#general](#general)
+- [#juegos](#juegos)
 - [#lifehacks](#lifehacks)
 - [#mascotas](#mascotas)
 - [#mobile](#mobile)
@@ -56,6 +57,10 @@
 - [Technical Book Hunter](https://github.com/TechBookHunter?tab=repositories): A curated collection of free eBooks tech-related.
 - [Terminals Are Sexy](https://terminalsare.sexy/): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - Fix permisos de carpeta en Mac OS X: `sudo chown -R $(whoami) /Library/WebServer/Documents/`
+
+## #juegos
+
+- [Alien Battle](https://github.com/raulghm/alien-battle-game): Alien Battle es un micro juego de rol por turnos muy sencillo y fácil de aprender
 
 ## #lifehacks
 
