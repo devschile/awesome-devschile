@@ -18,6 +18,7 @@
 - [#mobile](#mobile)
 - [#musiqueria](#musiqueria)
 - [#pegas](#pegas)
+- [#remoto](#remoto)
 - [#ux](#ux)
 
 ## #backend
@@ -105,6 +106,9 @@
 
 ## #pegas
 - [HH as Freelancer](https://gist.github.com/mediafinger/f49c3363ee8af736f8a8623102de16fa): How to calculate your hourly rate as a freelancer?
+
+## #remoto
+- [Cafe del 10](https://www.cafedel10.cl/): Ubicado en [Santiago Centro](https://goo.gl/maps/KTv28zZRrx86jdBv5) y recomendado por @fabianhtml
 
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
