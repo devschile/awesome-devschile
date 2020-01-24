@@ -111,6 +111,7 @@
 ## #remoto
 - [Cafe del 10](https://www.cafedel10.cl/): Ubicado en [Santiago Centro](https://goo.gl/maps/KTv28zZRrx86jdBv5) y recomendado por @fabianhtml
 - [Cafe Forastero](http://www.cafeforastero.cl/): Ubicación en [Barrio Yungay - Santiago Centro](https://www.google.com/maps/place//data=!4m2!3m1!1s0x9662c5ab21f501db:0x451318df9e89956a?source=g.page.share) Clave WIFI: `Cowork2019`
+- [Remoto desde Chile](https://polymeris.github.io/remoto-desde-chile/): Guías y recursos para trabajadores remotes desde Chile -- a.k.a el FAQ de #remoto
 
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
