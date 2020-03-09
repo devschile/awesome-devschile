@@ -113,6 +113,7 @@
 
 ## #pegas
 - [HH as Freelancer](https://gist.github.com/mediafinger/f49c3363ee8af736f8a8623102de16fa): How to calculate your hourly rate as a freelancer?
+- [Guía para el buen curriculum vitae](https://github.com/devschile/cv): tips para un buen Curriculum Vitae y filtrar malas pegas
 
 ## #remoto
 - [Cafe del 10](https://www.cafedel10.cl/): Ubicado en [Santiago Centro](https://goo.gl/maps/KTv28zZRrx86jdBv5) y recomendado por @fabianhtml
