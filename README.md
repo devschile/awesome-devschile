@@ -73,7 +73,9 @@
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
 - [Listen to a Movie](http://listentoamovie.com/media/index.php): for the cubicle workers of the word.
 - [Silla SENTIS](http://www.llusca.com/es/mobiliario/383-silla-sentis/): recomendada por @alvaromeza
-- [Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq 
+- ~~[Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq ~~
+- [Silla Taylor Pro Gris](https://www.econosillas.cl/silla-taylor-pro-gris.html): similar a la recomendada por @gmq que ya no esta disponible
+- [Silla Taylor Syncro](https://www.econosillas.cl/silla-taylor.html): similar a la recomendada por @gmq
 - Audiobooks recomendados por @narzerus:
   - *Soft Skills: The Software Developer’s Life Manual:* Habilidades blandas de software devs en todos los ámbitos. Tiene algunos chapters medios weones q se va en una vola super esotérica pero lo demás bastante bueno. Es básico pero integral, es probable que pillen algo que les sirva en algun capítulo
   - *Never Split the Difference: Negotiating as if Your Life Depended on It:* Librazo, sobre negociación de todo tipo, lo escribió un crack de la CIA que negociaba la vida de rehenes con terroristas y weones locos
