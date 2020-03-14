@@ -73,7 +73,7 @@
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
 - [Listen to a Movie](http://listentoamovie.com/media/index.php): for the cubicle workers of the word.
 - [Silla SENTIS](http://www.llusca.com/es/mobiliario/383-silla-sentis/): recomendada por @alvaromeza
-- ~~[Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq ~~
+- <s>[Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq </s>
 - [Silla Taylor Pro Gris](https://www.econosillas.cl/silla-taylor-pro-gris.html): similar a la recomendada por @gmq que ya no esta disponible
 - [Silla Taylor Syncro](https://www.econosillas.cl/silla-taylor.html): similar a la recomendada por @gmq
 - Audiobooks recomendados por @narzerus:
