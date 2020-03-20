@@ -102,7 +102,7 @@
 - **SII Boleta Honorarios 2020** : Para la nueva retención en las boletas de honorarios, si antes dividían por 0,9, para llegar al total bruto, ahora solo tienen que dividir por 0,8925. :ok_hand:
 - [Labo Club](https://laboclub.cl/): Por fin un detergente que cuida el Medio Ambiente
 - [Drive con cursos](https://tupo.to/pZuX): miles de cursos webdev
-- [Youtube Premium a CLP$1.000 al mes](https://i.imgur.com/JjGmG6E.png): Cómo pagar Youtube Premium por CLP$1.000 al mes
+- [Youtube Premium a luka al mes](https://i.imgur.com/JjGmG6E.png): Cómo pagar Youtube Premium por CLP$1.000 al mes
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
