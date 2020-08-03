@@ -106,10 +106,11 @@
 - [AWA: Filtros para agua reutilizables](http://www.tomemosawa.com): Gracias al diseño de nuestro filtro les damos la opción a nuestros clientes que recarguen los filtros a su gusto, así tomando en cuenta las preferencias y necesidades de cada usuario. Ofrecemos packs de ultra filtración, electrolitos y minerales, aportando a su agua sales y minerales esenciales para cada individuo.
 
 ## #mascotas
-- [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta)
+- [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta).
+- [Unbiased Cat Food Reviews](http://catfooddb.com/): Find the best cat food for your cat from 3100+ products and 180+ brands.
 
 ## #mobile
-- [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation
+- [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation.
 
 ## #musiqueria
 - [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
@@ -120,10 +121,10 @@
 - [Guía para el buen curriculum vitae](https://github.com/devschile/cv): tips para un buen Curriculum Vitae y filtrar malas pegas
 
 ## #remoto
-- [Cafe del 10](https://www.cafedel10.cl/): Ubicado en [Santiago Centro](https://goo.gl/maps/KTv28zZRrx86jdBv5) y recomendado por @fabianhtml
+- [Cafe del 10](https://www.cafedel10.cl/): Ubicado en [Santiago Centro](https://goo.gl/maps/KTv28zZRrx86jdBv5) y recomendado por @fabianhtml.
 - [Cafe Forastero](http://www.cafeforastero.cl/): Ubicación en [Barrio Yungay - Santiago Centro](https://www.google.com/maps/place//data=!4m2!3m1!1s0x9662c5ab21f501db:0x451318df9e89956a?source=g.page.share) Clave WIFI: `Cowork2019`
 - [Remoto desde Chile](https://polymeris.github.io/remoto-desde-chile/): Guías y recursos para trabajadores remotes desde Chile -- a.k.a el FAQ de #remoto
-- [Las 5 cosas que debes saber para trabajar remoto desde Chile](https://gomezespejo.com/remoto-desde-chile/): De Chile al mundo: las 5 cosas que tienes que saber para trabajar remoto desde Chile
+- [Las 5 cosas que debes saber para trabajar remoto desde Chile](https://gomezespejo.com/remoto-desde-chile/): De Chile al mundo: las 5 cosas que tienes que saber para trabajar remoto desde Chile.
 
 ## #ux
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
