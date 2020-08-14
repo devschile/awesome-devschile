@@ -112,6 +112,9 @@
 ## #mobile
 - [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation.
 
+## #moneas
+- [Reclamo por alza en planes de ISAPRES](http://www.supersalud.gob.cl/servicios/669/w3-article-10044.html): Permite reclamar ante la Superintendencia de Salud por el alza de precio base del plan de salud contratado con una Isapre.
+
 ## #musiqueria
 - [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
 - [Songs To Test Headphones With](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZtZ8vUCzche?si=jAwVYwFxS1m1Njvo4vbUJw)
