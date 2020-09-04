@@ -50,6 +50,7 @@
 - [vee-validate](https://github.com/baianat/vee-validate): plugin for Vue.js that allows you to validate input fields and display errors.
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts): This repository was created with the intention of helping developers master their concepts in JavaScript.
 - [Sheety: Turn any Google sheet into an API instantly, for free](https://sheety.co/): parecido a Sheetsu pero gratis, yo lo uso para proyectos simples.
+- [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20): Discover the best tools to help you build great micro frontends.
 
 ## #general
 - [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
