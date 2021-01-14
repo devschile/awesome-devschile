@@ -107,6 +107,8 @@
 - [Youtube Premium a luka al mes](https://i.imgur.com/JjGmG6E.png): Cómo pagar Youtube Premium por CLP$1.000 al mes
 - [AWA: Filtros para agua reutilizables](http://www.tomemosawa.com): Gracias al diseño de nuestro filtro les damos la opción a nuestros clientes que recarguen los filtros a su gusto, así tomando en cuenta las preferencias y necesidades de cada usuario. Ofrecemos packs de ultra filtración, electrolitos y minerales, aportando a su agua sales y minerales esenciales para cada individuo.
 - [DondeReciclo](https://dondereciclo.cl/): Recicla fácil, donde reciclar, puntos de reciclaje en Chile, elige qué reciclar y encuentra dónde.
+- [VivoDigital](https://vivodigital.cl/product-category/tienda-vivo/): Tienda con notebooks y equipos nuevos y usados.
+- [UltraPC](https://www.ultrapc.cl/): compra-venta de notebooks.
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta).
