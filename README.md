@@ -35,7 +35,7 @@
 - [Vim-Startify](https://github.com/mhinz/vim-startify): The fancy start screen for Vim
 - [Portainer](https://portainer.io/): Administrador de imágenes locales y remotas de Docker
 
-## #comida
+## #comida
 
 - [Buenos Días María](https://buenosdiasmaria.cl) almuerzos :patrones: súper ricos y bien preparados. Ideal para regalo de #pega o :tinder:. Recomendado por @polymeris y @dilip
 
