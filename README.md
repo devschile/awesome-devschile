@@ -11,6 +11,7 @@
 --
 
 - [#backend](#backend)
+- [#comida](#comida)
 - [#frontend](#frontend)
 - [#general](#general)
 - [#juegos](#juegos)
@@ -33,6 +34,10 @@
 - [Bash Commands and Tips](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je): 101 Bash Commands and Tips for Beginners to Experts
 - [Vim-Startify](https://github.com/mhinz/vim-startify): The fancy start screen for Vim
 - [Portainer](https://portainer.io/): Administrador de imágenes locales y remotas de Docker
+
+## #comida
+
+- [Buenos Días María](https://buenosdiasmaria.cl) almuerzos :patrones: súper ricos y bien preparados. Ideal para regalo de #pega o :tinder:. Recomendado por @polymeris y @dilip
 
 ## #frontend
 
