@@ -118,6 +118,7 @@
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta).
 - [Unbiased Cat Food Reviews](http://catfooddb.com/): Find the best cat food for your cat from 3100+ products and 180+ brands.
+- [Veterinaria mascotas exóticas](http://www.exzooticvet.cl/home/): Atención veterinaria, cirugía y hotel para mascotas exóticas (conejos, patos, hamsters, etc).
 
 ## #mobile
 - [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation.
