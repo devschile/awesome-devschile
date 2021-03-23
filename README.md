@@ -114,6 +114,7 @@
 - [DondeReciclo](https://dondereciclo.cl/): Recicla fácil, donde reciclar, puntos de reciclaje en Chile, elige qué reciclar y encuentra dónde.
 - [VivoDigital](https://vivodigital.cl/product-category/tienda-vivo/): Tienda con notebooks y equipos nuevos y usados.
 - [UltraPC](https://www.ultrapc.cl/): compra-venta de notebooks.
+- [BIN CL Banco Santander Chile](https://www.freebinchecker.com/chile_banco-santander-chile-bin-list-bank?hl=es): Chile Banco Santander Chile lista BIN | Mastercard (MC) Amex, Maestro, Discover, DCI, redes de tarjetas Visa.
 
 ## #mascotas
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta).
