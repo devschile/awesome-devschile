@@ -12,6 +12,7 @@
 
 - [#backend](#backend)
 - [#comida](#comida)
+- [#desarrollo](#desarrollo)
 - [#frontend](#frontend)
 - [#general](#general)
 - [#juegos](#juegos)
@@ -38,6 +39,10 @@
 ## #comida
 
 - [Buenos Días María](https://buenosdiasmaria.cl) almuerzos :patrones: súper ricos y bien preparados. Ideal para regalo de #pega o :tinder:. Recomendado por @polymeris y @dilip
+
+## #desarrollo
+
+- @javiera: _necesito material de estudio de base de datos avanzadas_ | @codeagainst: [Database in depth](http://libgen.lc/item/index.php?md5=A74DF0B34F206124DCA936FDB2C953ED) | @ecastillo: [Fundamentos de sistemas de bases de datos, 5a. edición, Elmasri-Navathe](https://www.ingebook.com/ib/NPcd/IB_BooksVis?cod_primaria=1000187&codigo_libro=2886) | @rola_ [Fundamentos de bases de Datos](https://luiscastellanos.files.wordpress.com/2009/03/fundamentos-de-bases-de-datos-silberschatz-korth-sudarshan.pdf) | @janogonzalez [Para aprender a hacer buenas consultas SQL](https://use-the-index-luke.com) y [para aprender como funcionan las BD por dentro](https://www.databass.dev) (como yapa, la segunda parte del libro te sirve para el ramo de sistemas distribuidos).
 
 ## #frontend
 
