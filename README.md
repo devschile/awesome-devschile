@@ -24,6 +24,7 @@
 - [#pegas](#pegas)
 - [#remoto](#remoto)
 - [#ux](#ux)
+- [#oficialDevsChile](Oficial DevsChile)
 
 ## #backend
 
@@ -63,6 +64,7 @@
 - [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20): Discover the best tools to help you build great micro frontends.
 
 ## #general
+
 - [Dev Tube](https://dev.tube/): Enjoy the best technical videos and share it with friends, colleagues, and the world.
 - [Goal Kicker](http://goalkicker.com/): Goal Kicker - Programming Notes for Professionals books.
 - [Movies For Hackers](https://hackermovie.club/): Every aspiring hacker & cyberpunk must watch these movies.
@@ -81,12 +83,9 @@
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps): List of awesome open source applications for macOS.
 - [Brain.fm](https://www1.brain.fm/): Music for the Brain.
 - [Defonic](http://defonic.com/): A fabulous ambient noise generator.
-- [MACgyver Servicio Técnico](https://www.facebook.com/MacgyverST/): Reparación de equipos Apple en general, Macbook Pro, Air, iPhone, iPad, etc. Asesoría, mantención y upgrade (recomendado por @alv.alvarez).
-- [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
 - [Listen to a Movie](http://listentoamovie.com/media/index.php): for the cubicle workers of the word.
 - [Silla SENTIS](http://www.llusca.com/es/mobiliario/383-silla-sentis/): recomendada por @alvaromeza
 - <s>[Silla Taylor Pro](https://www.econosillas.cl/taylor-pro.html): recomendada por @gmq </s>
-- [Silla Taylor Pro Gris](https://www.econosillas.cl/silla-taylor-pro-gris.html): similar a la recomendada por @gmq que ya no esta disponible
 - [Silla Taylor Syncro](https://www.econosillas.cl/silla-taylor.html): similar a la recomendada por @gmq
 - Audiobooks recomendados por @narzerus:
   - *Soft Skills: The Software Developer’s Life Manual:* Habilidades blandas de software devs en todos los ámbitos. Tiene algunos chapters medios weones q se va en una vola super esotérica pero lo demás bastante bueno. Es básico pero integral, es probable que pillen algo que les sirva en algun capítulo
@@ -113,45 +112,57 @@
 - [La Cacerita](https://www.caserita.cl/): Primer Mayorista Online, despacho a domicilio
 - **SII Boleta Honorarios 2020** : Para la nueva retención en las boletas de honorarios, si antes dividían por 0,9, para llegar al total bruto, ahora solo tienen que dividir por 0,8925. :ok_hand:
 - [Labo Club](https://laboclub.cl/): Por fin un detergente que cuida el Medio Ambiente
-- [Drive con cursos](https://tupo.to/pZuX): miles de cursos webdev
+- <s>[Drive con cursos](https://tupo.to/pZuX): miles de cursos webdev</s>
 - [Youtube Premium a luka al mes](https://i.imgur.com/JjGmG6E.png): Cómo pagar Youtube Premium por CLP$1.000 al mes
 - [AWA: Filtros para agua reutilizables](http://www.tomemosawa.com): Gracias al diseño de nuestro filtro les damos la opción a nuestros clientes que recarguen los filtros a su gusto, así tomando en cuenta las preferencias y necesidades de cada usuario. Ofrecemos packs de ultra filtración, electrolitos y minerales, aportando a su agua sales y minerales esenciales para cada individuo.
 - [DondeReciclo](https://dondereciclo.cl/): Recicla fácil, donde reciclar, puntos de reciclaje en Chile, elige qué reciclar y encuentra dónde.
 - [VivoDigital](https://vivodigital.cl/product-category/tienda-vivo/): Tienda con notebooks y equipos nuevos y usados.
 - [UltraPC](https://www.ultrapc.cl/): compra-venta de notebooks.
 - [BIN CL Banco Santander Chile](https://www.freebinchecker.com/chile_banco-santander-chile-bin-list-bank?hl=es): Chile Banco Santander Chile lista BIN | Mastercard (MC) Amex, Maestro, Discover, DCI, redes de tarjetas Visa.
-- [Escritorio de Pie Willy oficial devsChile](https://www.falabella.com/falabella-cl/product/881999600/Escritorio-de-Pie-Willy/881999600): Escritorio altura se regula mediante un control eléctrico bajo la superficie.
 - [Fullpila.cl](https://fullpila.cl/): tienda online especializada en PILAS y BATERIA, disponemos de pila en distintos tamaños y tecnologías.
 
 ## #mascotas
+
 - [PetHome](https://www.pethomechile.cl/): Todo para tu mascota (rascadores de gato siempre en oferta).
 - [Unbiased Cat Food Reviews](http://catfooddb.com/): Find the best cat food for your cat from 3100+ products and 180+ brands.
 - [Veterinaria mascotas exóticas](http://www.exzooticvet.cl/home/): Atención veterinaria, cirugía y hotel para mascotas exóticas (conejos, patos, hamsters, etc).
 
 ## #mobile
+
 - [GenyMotion](https://www.genymotion.com/fun-zone/): Personal Android app emulation.
 
 ## #moneas
+
 - [Reclamo por alza en planes de ISAPRES](http://www.supersalud.gob.cl/servicios/669/w3-article-10044.html): Permite reclamar ante la Superintendencia de Salud por el alza de precio base del plan de salud contratado con una Isapre.
 
 ## #musiqueria
+
 - [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
 - [Songs To Test Headphones With](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZtZ8vUCzche?si=jAwVYwFxS1m1Njvo4vbUJw)
 
 ## #pegas
+
 - [HH as Freelancer](https://gist.github.com/mediafinger/f49c3363ee8af736f8a8623102de16fa): How to calculate your hourly rate as a freelancer?
 - [Guía para el buen curriculum vitae](https://github.com/devschile/cv): tips para un buen Curriculum Vitae y filtrar malas pegas
 - [Keep track of your job applications](https://profilehunt.net/): Profilehunt helps you to search for new jobs, get custom alerts and track applications
 
 ## #remoto
+
 - [Cafe del 10](https://www.cafedel10.cl/): Ubicado en [Santiago Centro](https://goo.gl/maps/KTv28zZRrx86jdBv5) y recomendado por @fabianhtml.
 - [Cafe Forastero](http://www.cafeforastero.cl/): Ubicación en [Barrio Yungay - Santiago Centro](https://www.google.com/maps/place//data=!4m2!3m1!1s0x9662c5ab21f501db:0x451318df9e89956a?source=g.page.share) Clave WIFI: `Cowork2019`
 - [Remoto desde Chile](https://polymeris.github.io/remoto-desde-chile/): Guías y recursos para trabajadores remotes desde Chile -- a.k.a el FAQ de #remoto
 - [Las 5 cosas que debes saber para trabajar remoto desde Chile](https://gomezespejo.com/remoto-desde-chile/): De Chile al mundo: las 5 cosas que tienes que saber para trabajar remoto desde Chile.
 
 ## #ux
+
 - [Cooklist iOS](https://www.behance.net/gallery/59512423/Cooklist-iOS-UIUX-Design-Concept): UI/UX Design Concept.
 - [tabler](https://tabler.github.io/): Premium and Open Source dashboard template with responsive and high quality UI.
 - [Design DB](https://www.designdb.co/): Directory of the best free design resources, templates, UI kits, and Mockups on the Internet. All resources are hand-curated and vetted for quality to save you time and money.
 - [Programming Fonts](http://app.programmingfonts.org): Test drive over 50 free programming fonts
 
+## #oficialDevsChile
+
+- [Escritorio de Pie Willy](https://www.falabella.com/falabella-cl/product/881999600/Escritorio-de-Pie-Willy/881999600): Standing desk de base metálica con motor de alzamiento
+- [MACgyver Servicio Técnico](https://www.facebook.com/MacgyverST/): Reparación de equipos Apple en general, Macbook Pro, Air, iPhone, iPad, etc. Asesoría, mantención y upgrade (recomendado por @alv.alvarez)
+- [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
+- [Silla Taylor Pro Gris](https://www.econosillas.cl/silla-taylor-pro-gris.html): silla para trabajar remoto, [agrégale la cabecera sipo](https://www.econosillas.cl/accesorio-oficina-cabecero-taylor-gris-claro.html)
