@@ -24,7 +24,7 @@
 - [#pegas](#pegas)
 - [#remoto](#remoto)
 - [#ux](#ux)
-- [#oficialDevsChile](Oficial DevsChile)
+- [#oficialDevsChile](#oficialDevsChile)
 
 ## #backend
 
@@ -166,3 +166,4 @@
 - [MACgyver Servicio Técnico](https://www.facebook.com/MacgyverST/): Reparación de equipos Apple en general, Macbook Pro, Air, iPhone, iPad, etc. Asesoría, mantención y upgrade (recomendado por @alv.alvarez)
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
 - [Silla Taylor Pro Gris](https://www.econosillas.cl/silla-taylor-pro-gris.html): silla para trabajar remoto, [agrégale la cabecera sipo](https://www.econosillas.cl/accesorio-oficina-cabecero-taylor-gris-claro.html)
+- [Logitech MX Vertical](https://www.logitech.com/es-roam/products/mice/mx-vertical-ergonomic-mouse.910-005447.html): Mouse ergonómico; supera las molestias con un mouse diseñado para reducir la tensión muscular, disminuir la presión en la muñeca y mejorar la postura
