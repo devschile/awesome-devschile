@@ -168,3 +168,4 @@
 - [Zenni Optical](http://www.zennioptical.com/): Glasses – Glasses Online – Prescription Glasses.
 - [Silla Taylor Pro Gris](https://www.econosillas.cl/silla-taylor-pro-gris.html): silla para trabajar remoto, [agrégale la cabecera sipo](https://www.econosillas.cl/accesorio-oficina-cabecero-taylor-gris-claro.html)
 - [Logitech MX Vertical](https://www.logitech.com/es-roam/products/mice/mx-vertical-ergonomic-mouse.910-005447.html): Mouse ergonómico; supera las molestias con un mouse diseñado para reducir la tensión muscular, disminuir la presión en la muñeca y mejorar la postura
+- [Molinillo De Café De'Longhi KG89](https://articulo.mercadolibre.cl/MLC-550139020-molinillo-de-cafe-delonghi-kg89-_JM): Molinillo con selector de nivel de molienda, Selector de cantidad de 1 a 12 tazas, Potencia: 110 W.
