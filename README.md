@@ -40,6 +40,10 @@
 ## #comida
 
 - [Buenos Días María](https://buenosdiasmaria.cl) almuerzos :patrones: súper ricos y bien preparados. Ideal para regalo de #pega o :tinder:. Recomendado por @polymeris y @dilip
+- [Cafetalero](https://cafetalero.cl/): Compra en Cápsulas compatibles con Nespresso, Café en Grano y Molido seleccionados.
+- [SINGULAR COFFEE ROASTERS](https://singularcoffee.cl/): Specialty Coffee. Tostando para ti, en el corazón de Barrio Italia.
+- [Coffee Culture Coffee Roasters](https://www.coffeeculture.cl/): Café de especialidad, fresco y recién tostado. Despachos a todo Chile. Make coffee, not war!
+- [Outlet del Café](https://www.outletdelcafe.cl/): Café de Especialidad a Precio justo, encuentra mas de 100 opciones de café.
 
 ## #desarrollo
 
