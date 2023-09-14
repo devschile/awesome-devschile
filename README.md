@@ -49,6 +49,7 @@
 ## #comunidad
 
 - [Ecocitex](https://www.ecocitex.cl/): Creamos y vendemos hilado de ropa y textiles reciclados. Nuestros formatos son ovillos, conos, maxiconos y cordones. Ventar por mayor y al detalle. Nuestra meta es acabar con el desecho textil en Chile.
+- [JustWatch](https://www.justwatch.com/): All your movies/series on streaming services in one app.
 
 ## #desarrollo
 
@@ -130,6 +131,7 @@
 - [BIN CL Banco Santander Chile](https://www.freebinchecker.com/chile_banco-santander-chile-bin-list-bank?hl=es): Chile Banco Santander Chile lista BIN | Mastercard (MC) Amex, Maestro, Discover, DCI, redes de tarjetas Visa.
 - [Fullpila.cl](https://fullpila.cl/): tienda online especializada en PILAS y BATERIA, disponemos de pila en distintos tamaños y tecnologías.
 - [12tren - Comunidad de Ahorro](https://12tren.com/): Somos la Comunidad de Ahorro que ayuda a las familias chilenas a vivir mejor pagando lo justo.
+- [Bypass any paywall](https://12ft.io/): Saltarse paywall de medium y eso.
 
 ## #mascotas
 
