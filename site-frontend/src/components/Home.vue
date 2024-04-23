@@ -9,7 +9,7 @@ import axios from 'axios'
 import VueMarkdown from 'vue-markdown'
 
 export default {
-  name: 'Home',
+  name: 'AppHome',
   data () {
     return {
       content: '',
