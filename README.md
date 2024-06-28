@@ -132,6 +132,7 @@
 - [Fullpila.cl](https://fullpila.cl/): tienda online especializada en PILAS y BATERIA, disponemos de pila en distintos tamaños y tecnologías.
 - [12tren - Comunidad de Ahorro](https://12tren.com/): Somos la Comunidad de Ahorro que ayuda a las familias chilenas a vivir mejor pagando lo justo.
 - [Bypass any paywall](https://12ft.io/): Saltarse paywall de medium y eso.
+- [BENEFICIOS GRATUITOS PARA TU CUMPLEAÑOS 🎁](https://www.tiktok.com/@mitogonzalez/video/7321498095156563206): actualizado 2024 🤩
 
 ## #mascotas
 
