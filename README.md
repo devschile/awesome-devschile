@@ -134,6 +134,7 @@
 - [12tren - Comunidad de Ahorro](https://12tren.com/): Somos la Comunidad de Ahorro que ayuda a las familias chilenas a vivir mejor pagando lo justo.
 - [Bypass any paywall](https://12ft.io/): Saltarse paywall de medium y eso.
 - [BENEFICIOS GRATUITOS PARA TU CUMPLEAÑOS 🎁](https://www.tiktok.com/@mitogonzalez/video/7321498095156563206): actualizado 2024 🤩
+- [Andres Carnicería](https://andres-carnederes-carniceria.cl/): Tu carnicería online con despacho a domicilio en Santiago. CORTAMOS Y EMPACAMOS AL VACIO SEGÚN SU PREFERENCIA.
 
 ## #mascotas
 
