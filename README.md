@@ -136,6 +136,10 @@
 - [Bypass any paywall](https://12ft.io/): Saltarse paywall de medium y eso.
 - [BENEFICIOS GRATUITOS PARA TU CUMPLEAÑOS 🎁](https://www.tiktok.com/@mitogonzalez/video/7321498095156563206): actualizado 2024 🤩
 - [Andres Carnicería](https://andres-carnederes-carniceria.cl/): Tu carnicería online con despacho a domicilio en Santiago. CORTAMOS Y EMPACAMOS AL VACIO SEGÚN SU PREFERENCIA.
+- Farmacias con mejores precios en la RM (que he encontrado) y despacho / retiro en sucursal:
+[farmaciameki.cl](https://farmaciameki.cl/)
+[farmex.cl](https://farmex.cl/)
+[farmaciascurie.cl](https://www.farmaciascurie.cl/)
 
 ## #mascotas
 
