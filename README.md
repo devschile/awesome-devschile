@@ -86,6 +86,8 @@
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts): This repository was created with the intention of helping developers master their concepts in JavaScript.
 - [Sheety: Turn any Google sheet into an API instantly, for free](https://sheety.co/): parecido a Sheetsu pero gratis, yo lo uso para proyectos simples.
 - [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20): Discover the best tools to help you build great micro frontends.
+- [Scraping Playground](https://github.com/NachoOFC/scraping-playground): Un entorno de pruebas web (sandbox) en HTML, diseñado para aprender y practicar técnicas de web scraping de forma segura.
+
 
 ## #general
 
