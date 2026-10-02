@@ -25,3 +25,9 @@ test('Home assigns category anchors after vue-markdown emits rendered', () => {
   assert.match(homeComponent, /setSectionAnchors: function \(\)/)
   assert.match(homeComponent, /assignSectionAnchors\(this\.\$el\)/)
 })
+
+test('Home font stack includes native emoji fallbacks', () => {
+  assert.match(homeComponent, /"Apple Color Emoji"/)
+  assert.match(homeComponent, /"Segoe UI Emoji"/)
+  assert.match(homeComponent, /"Noto Color Emoji"/)
+})

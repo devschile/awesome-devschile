@@ -29,15 +29,18 @@ test('community recommendations are present in their relevant categories', () =>
   }
 })
 
-test('new community recommendations include a date and tag product links', () => {
+test('community recommendations are regular category items with member consensus', () => {
   const recommendations = readme
     .split(/\r?\n/)
-    .filter(line => line.includes('Recomendado por la comunidad'))
+    .filter(line => line.includes('👍🏽👍🏽'))
 
   assert.ok(recommendations.length >= 16, 'expected the curated community recommendations')
+  assert.doesNotMatch(readme, /^### Recomendaciones de la comunidad$/m)
 
   for (const recommendation of recommendations) {
-    assert.match(recommendation, /2026-\d{2}(?:-\d{2})?/, recommendation)
+    assert.match(recommendation, /^- /, recommendation)
+    assert.match(recommendation, /\(\d+\+? miembros\) 👍🏽👍🏽\.$/, recommendation)
+    assert.doesNotMatch(recommendation, /2026-\d{2}(?:-\d{2})?/, recommendation)
     if (recommendation.includes('](')) {
       assert.match(recommendation, /utm_source=devschile/, recommendation)
     }

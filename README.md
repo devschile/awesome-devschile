@@ -46,12 +46,10 @@
 - [Coffee Culture Coffee Roasters](https://www.coffeeculture.cl/): Café de especialidad, fresco y recién tostado. Despachos a todo Chile. Make coffee, not war!
 - [Outlet del Café](https://www.outletdelcafe.cl/): Café de Especialidad a Precio justo, encuentra mas de 100 opciones de café.
 
-### Recomendaciones de la comunidad
-
-- [Passage to India](https://www.passagefoods.com/?utm_source=devschile): Salsas de curry bien evaluadas por sabor y nivel de picor. Recomendado por la comunidad (2 miembros, 2026-07-15).
-- [Olla a presión eléctrica Oster](https://www.oster.cl/?utm_source=devschile): Útil para cocinar y hasta llevar de viaje. Recomendado por la comunidad (2 miembros, 2026-08-05).
-- [Makeke](https://makeke.cl/?utm_source=devschile): Cafetería y punto de encuentro de la comunidad. Recomendado por la comunidad (4+ miembros, 2026-10-01).
-- **Cvallejeria:** tablas de cortar hechas por Carlos Vallejos; miembros siguen usándolas y propusieron una colaboración devsChile. Recomendado por la comunidad (2+ miembros, 2026-08-06).
+- [Passage to India](https://www.passagefoods.com/?utm_source=devschile): Salsas de curry bien evaluadas por sabor y nivel de picor. (2 miembros) 👍🏽👍🏽.
+- [Olla a presión eléctrica Oster](https://www.oster.cl/?utm_source=devschile): Útil para cocinar y hasta llevar de viaje. (2 miembros) 👍🏽👍🏽.
+- [Makeke](https://makeke.cl/?utm_source=devschile): Cafetería y punto de encuentro de la comunidad. (4+ miembros) 👍🏽👍🏽.
+- **Cvallejeria:** tablas de cortar hechas por Carlos Vallejos; miembros siguen usándolas y propusieron una colaboración devsChile. (2+ miembros) 👍🏽👍🏽.
 
 ## #comunidad
 
@@ -60,10 +58,8 @@
 - [AI Resume Analyzer](https://www.airesumeanalyzer.com/): Analizador de Cv's.
 - [Encuentra tu Código Postal](https://www.micodigopostal.fun/): Busca por dirección exacta en cualquier comuna de Chile y obtén el código postal correcto en segundos.
 
-### Recomendaciones de la comunidad
-
-- [Stremio](https://www.stremio.com/?utm_source=devschile): App para centralizar streaming, mencionada y usada por varios miembros. Recomendado por la comunidad (6+ miembros, 2026-08-12).
-- [Pulentines](https://www.pulentines.cl/?utm_source=devschile): Calcetines de Keldor; "están súper lindos" según la comunidad. Recomendado por la comunidad (2+ miembros, 2026-09-29).
+- [Stremio](https://www.stremio.com/?utm_source=devschile): App para centralizar streaming, mencionada y usada por varios miembros. (6+ miembros) 👍🏽👍🏽.
+- [Pulentines](https://www.pulentines.cl/?utm_source=devschile): Calcetines de Keldor; "están súper lindos" según la comunidad. (2+ miembros) 👍🏽👍🏽.
 
 ## #desarrollo
 
@@ -103,10 +99,8 @@
 
 - [Alien Battle](https://github.com/raulghm/alien-battle-game): Alien Battle es un micro juego de rol por turnos muy sencillo y fácil de aprender
 
-### Recomendaciones de la comunidad
-
-- [SuperMuseum](https://supermuseum.netlify.app/?utm_source=devschile): Emulador web, especialmente recomendado para N64 con parallel64. Recomendado por la comunidad (2+ miembros, 2026-09-11).
-- [8BitDo](https://www.8bitdo.com/?utm_source=devschile): Gamepads con buena relación calidad-precio, incluido el 8BitDo 2C. Recomendado por la comunidad (3 miembros, 2026-10-02).
+- [SuperMuseum](https://supermuseum.netlify.app/?utm_source=devschile): Emulador web, especialmente recomendado para N64 con parallel64. (2+ miembros) 👍🏽👍🏽.
+- [8BitDo](https://www.8bitdo.com/?utm_source=devschile): Gamepads con buena relación calidad-precio, incluido el 8BitDo 2C. (3 miembros) 👍🏽👍🏽.
 
 ## #lifehacks
 
@@ -160,17 +154,15 @@
 [farmex.cl](https://farmex.cl/)
 [farmaciascurie.cl](https://www.farmaciascurie.cl/)
 
-### Recomendaciones de la comunidad
-
-- [Brita](https://www.brita.cl/?utm_source=devschile): Jarras purificadoras; disponibilidad sostenida de filtros fue un factor importante. Recomendado por la comunidad (4 miembros, 2026-07-20).
-- [Midea](https://www.midea.com/cl/?utm_source=devschile): Electrodomésticos mayores, lavadora/secadora y olla; varios años de uso sin problemas reportados. Recomendado por la comunidad (3+ miembros, 2026-08-06).
-- [Brother](https://www.brother.cl/?utm_source=devschile): Impresoras, particularmente la MFC-T930DW. Recomendado por la comunidad (4+ miembros, 2026-09-28).
-- [Ergohuman](https://www.ergohuman.com/?utm_source=devschile): Sillas ergonómicas para trabajo; experiencias positivas incluso tras años de uso. Recomendado por la comunidad (5 miembros, 2026-08-22).
-- [DJI Mic Mini](https://www.dji.com/mic-mini?utm_source=devschile): Micrófono inalámbrico con buen audio y bajo ruido para reuniones. Recomendado por la comunidad (3 miembros, 2026-09-08).
-- [SDN — Supermercado del Neumático](https://sdn.cl/?utm_source=devschile): Neumáticos con instalación y balanceo; buena rotación de stock. Recomendado por la comunidad (4 miembros, 2026-09-29).
-- [Orico](https://www.orico.cc/?utm_source=devschile): Cases/enclosures para SSD NVMe. Recomendado por la comunidad (2 miembros, 2026-07-24).
-- [Wacaco](https://www.wacaco.com/?utm_source=devschile): Cafeteras portátiles; Wacaco y Outin aparecieron como opciones recomendadas. Recomendado por la comunidad (2 miembros, 2026-09-08).
-- **Jeden Tag:** paños para lentes y pantallas, con respaldo de uso cotidiano. Recomendado por la comunidad (2 miembros, 2026-08-20).
+- [Brita](https://www.brita.cl/?utm_source=devschile): Jarras purificadoras; disponibilidad sostenida de filtros fue un factor importante. (4 miembros) 👍🏽👍🏽.
+- [Midea](https://www.midea.com/cl/?utm_source=devschile): Electrodomésticos mayores, lavadora/secadora y olla; varios años de uso sin problemas reportados. (3+ miembros) 👍🏽👍🏽.
+- [Brother](https://www.brother.cl/?utm_source=devschile): Impresoras, particularmente la MFC-T930DW. (4+ miembros) 👍🏽👍🏽.
+- [Ergohuman](https://www.ergohuman.com/?utm_source=devschile): Sillas ergonómicas para trabajo; experiencias positivas incluso tras años de uso. (5 miembros) 👍🏽👍🏽.
+- [DJI Mic Mini](https://www.dji.com/mic-mini?utm_source=devschile): Micrófono inalámbrico con buen audio y bajo ruido para reuniones. (3 miembros) 👍🏽👍🏽.
+- [SDN — Supermercado del Neumático](https://sdn.cl/?utm_source=devschile): Neumáticos con instalación y balanceo; buena rotación de stock. (4 miembros) 👍🏽👍🏽.
+- [Orico](https://www.orico.cc/?utm_source=devschile): Cases/enclosures para SSD NVMe. (2 miembros) 👍🏽👍🏽.
+- [Wacaco](https://www.wacaco.com/?utm_source=devschile): Cafeteras portátiles; Wacaco y Outin aparecieron como opciones recomendadas. (2 miembros) 👍🏽👍🏽.
+- **Jeden Tag:** paños para lentes y pantallas, con respaldo de uso cotidiano. (2 miembros) 👍🏽👍🏽.
 
 ## #mascotas
 
@@ -178,9 +170,7 @@
 - [Unbiased Cat Food Reviews](http://catfooddb.com/): Find the best cat food for your cat from 3100+ products and 180+ brands.
 - [Veterinaria mascotas exóticas](http://www.exzooticvet.cl/home/): Atención veterinaria, cirugía y hotel para mascotas exóticas (conejos, patos, hamsters, etc).
 
-### Recomendaciones de la comunidad
-
-- [Cacttus](https://cacttus.cl/?utm_source=devschile): Seguro de mascotas; especialmente valorado para perros de mayor edad. Recomendado por la comunidad (2 miembros, 2026-09-08).
+- [Cacttus](https://cacttus.cl/?utm_source=devschile): Seguro de mascotas; especialmente valorado para perros de mayor edad. (2 miembros) 👍🏽👍🏽.
 
 ## #mobile
 
@@ -190,19 +180,15 @@
 
 - [Reclamo por alza en planes de ISAPRES](http://www.supersalud.gob.cl/servicios/669/w3-article-10044.html): Permite reclamar ante la Superintendencia de Salud por el alza de precio base del plan de salud contratado con una Isapre.
 
-### Recomendaciones de la comunidad
-
-- [Fintual](https://fintual.cl/?utm_source=devschile): Inversión simple para comenzar y automatizar aportes a fondos. Recomendado por la comunidad (6+ miembros, 2026-07-29).
-- [Racional](https://racional.cl/?utm_source=devschile): Plataforma de inversión usada por miembros junto a Fintual e IBKR. Recomendado por la comunidad (3 miembros, 2026-07-27).
+- [Fintual](https://fintual.cl/?utm_source=devschile): Inversión simple para comenzar y automatizar aportes a fondos. (6+ miembros) 👍🏽👍🏽.
+- [Racional](https://racional.cl/?utm_source=devschile): Plataforma de inversión usada por miembros junto a Fintual e IBKR. (3 miembros) 👍🏽👍🏽.
 
 ## #musiqueria
 
 - [eqMac2](https://github.com/nodeful/eqMac2): :headphones: System-wide Audio Equalizer for the Mac.
 - [Songs To Test Headphones With](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZtZ8vUCzche?si=jAwVYwFxS1m1Njvo4vbUJw)
 
-### Recomendaciones de la comunidad
-
-- **School of Rock:** clases de música en banda desde el primer día, con profes que tocan en bandas. Recomendado por la comunidad (2 miembros, 2026-09-30).
+- **School of Rock:** clases de música en banda desde el primer día, con profes que tocan en bandas. (2 miembros) 👍🏽👍🏽.
 
 ## #pegas
 
@@ -217,10 +203,8 @@
 - [Remoto desde Chile](https://polymeris.github.io/remoto-desde-chile/): Guías y recursos para trabajadores remotes desde Chile -- a.k.a el FAQ de #remoto
 - [Las 5 cosas que debes saber para trabajar remoto desde Chile](https://gomezespejo.com/remoto-desde-chile/): De Chile al mundo: las 5 cosas que tienes que saber para trabajar remoto desde Chile.
 
-### Recomendaciones de la comunidad
-
-- [BICE](https://www.bice.cl/?utm_source=devschile): Cuenta para recibir pagos desde el exterior; comisión fija y tipo de cambio fueron los factores citados. Recomendado por la comunidad (2 miembros, 2026-07-29).
-- [Wise](https://wise.com/?utm_source=devschile): Alternativa para transferencias internacionales, aunque la comunidad suele preferir BICE para recibir pagos. Recomendado por la comunidad (2 miembros, 2026-07-29).
+- [BICE](https://www.bice.cl/?utm_source=devschile): Cuenta para recibir pagos desde el exterior; comisión fija y tipo de cambio fueron los factores citados. (2 miembros) 👍🏽👍🏽.
+- [Wise](https://wise.com/?utm_source=devschile): Alternativa para transferencias internacionales, aunque la comunidad suele preferir BICE para recibir pagos. (2 miembros) 👍🏽👍🏽.
 
 ## #ux
 

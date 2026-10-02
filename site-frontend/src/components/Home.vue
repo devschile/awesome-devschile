@@ -142,7 +142,7 @@ body {
     radial-gradient(circle at 100% 20%, rgba(84, 143, 255, .12), transparent 34rem),
     var(--background);
   color: var(--text);
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
   font-size: 16px;
   line-height: 1.6;
 }
